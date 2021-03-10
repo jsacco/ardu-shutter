@@ -1,4 +1,4 @@
-# Measure shutter speed using Arduino
+# Measure shutter speeds using Arduino
 Description: Use a light sensor to check if the shutter speeds of your vintage camera is accurate.
 It can measure up to 1000/s, the values can be seen on the serial connection or in the LCD screen.
 
